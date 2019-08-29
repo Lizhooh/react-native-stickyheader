@@ -3550,6 +3550,11 @@ react-devtools-core@3.0.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-stickyheader@^1.0.1:
+  version "1.1.2"
+  resolved "https://registry.npm.taobao.org/react-native-stickyheader/download/react-native-stickyheader-1.1.2.tgz#b07a01a3c01cb6e99b9701da70cb09696f95daf3"
+  integrity sha1-sHoBo8ActumblwHacMsJaW+V2vM=
+
 react-native@0.52.0:
   version "0.52.0"
   resolved "http://registry.npm.taobao.org/react-native/download/react-native-0.52.0.tgz#9784663a2aa40b30c87d4c9c06ef26cf8d419d91"
